@@ -22,7 +22,7 @@ class _CounterPageState extends State<CounterPage> {
             child: Padding(
               padding: const EdgeInsets.symmetric(vertical: 10.0),
               child: Text(
-                "Contador33: $counter",
+                "Contador: $counter",
                 style:
                     const TextStyle(fontSize: 80, fontWeight: FontWeight.bold),
               ),
