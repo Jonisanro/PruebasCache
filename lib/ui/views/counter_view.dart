@@ -21,7 +21,7 @@ class _CounterViewState extends State<CounterView> {
           child: Padding(
             padding: const EdgeInsets.symmetric(vertical: 10.0),
             child: Text(
-              "Contador22: $counter",
+              "Contador33: $counter",
               style: const TextStyle(fontSize: 80, fontWeight: FontWeight.bold),
             ),
           ),

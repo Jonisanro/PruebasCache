@@ -16,15 +16,13 @@ class _CounterPageState extends State<CounterPage> {
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-       
-
           const Text('Contador Stateful', style: TextStyle(fontSize: 20)),
           FittedBox(
             fit: BoxFit.contain,
             child: Padding(
               padding: const EdgeInsets.symmetric(vertical: 10.0),
               child: Text(
-                "Contador: $counter",
+                "Contador33: $counter",
                 style:
                     const TextStyle(fontSize: 80, fontWeight: FontWeight.bold),
               ),

@@ -30,7 +30,7 @@ class _CounterProviderPageBody extends StatelessWidget {
           child: Padding(
             padding: const EdgeInsets.symmetric(vertical: 10.0),
             child: Text(
-              "Contador22: ${counterProvider.counter}",
+              "Contador33: ${counterProvider.counter}",
               style: const TextStyle(fontSize: 80, fontWeight: FontWeight.bold),
             ),
           ),
